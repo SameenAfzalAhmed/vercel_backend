@@ -38,7 +38,7 @@ dist
 
 # Environment variables
 .env
-.env.*
+
 
 
 
