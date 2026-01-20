@@ -122,3 +122,9 @@ watchfiles==1.1.1
 websockets==15.0.1
 yarl==1.22.0
 zipp==3.23.0
+fastapi
+uvicorn
+motor
+pydantic
+python-dotenv
+mangum
